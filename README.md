@@ -53,3 +53,8 @@ Per approfondimenti, scrivici su [info@fablabbergamo.it](mailto:info@fablabberga
 ---
 
 **FabLab Bergamo APS** – Promuoviamo cultura tecnica, creatività e innovazione per tutte le età.
+
+---
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
